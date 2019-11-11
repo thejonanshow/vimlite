@@ -33,7 +33,6 @@ set tabstop=4 softtabstop=0 expandtab shiftwidth=2 smarttab
 set backspace=indent,eol,start
 set number
 set nowrap
-imap <esc>           <esc>:w<CR>
 
 command! Q  q  " Bind :Q  to :q
 command! W  w  " Bind :W  to :w
