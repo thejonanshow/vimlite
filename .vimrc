@@ -42,5 +42,4 @@ command! WQ wq " Bind :WQ to :wq
 
 map <leader>rv       :so ~/.vimrc <CR>
 
-autocmd vimenter * NERDTree
 set nocompatible
